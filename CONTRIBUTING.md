@@ -44,7 +44,7 @@ Before submitting a pull request, make sure to test your changes locally. Provid
 - Use a clear and descriptive commit message that references the issue you're fixing.
 - When creating a PR, please provide a clear description of the changes you made and reference the issue you're fixing by writting "Fixes #1234" in the somewhere in the description. 
 ## 💬 Code of Conduct
-To encourage respectful and inclusive behavior among contributors, we ask that everyone follow our Code of Conduct. Read it here: CODE_OF_CONDUCT.md.
+To encourage respectful and inclusive behavior among contributors, we ask that everyone follow our [Code of Conduct](https://github.com/ALX-Students-Contribution/.github/blob/main/CODE_OF_CONDUCT.md). Read it here: CODE_OF_CONDUCT.md.
 
 ## 🚨 Reporting Security Vulnerabilities
 If you discover a security vulnerability, please report it immediately by contacting us at alxstudentscontribution@gmail.com . Please do not create an issue for security vulnerabilities.
@@ -52,7 +52,7 @@ If you discover a security vulnerability, please report it immediately by contac
 We take security vulnerabilities seriously and will work to address them as quickly as possible.
 
 ## 👨‍💻 Becoming a Maintainer
-If you are interested in becoming a maintainer of the project, please reach out to us at alxstudentscontribution@gmail.com . We will consider candidates based on their contributions to the project, technical expertise, and commitment to our code of conduct. Maintainers are responsible for reviewing pull requests, maintaining the codebase, and helping to grow the community.
+If you are interested in becoming a maintainer of the project, please reach out to us at alxstudentscontribution@gmail.com . We will consider candidates based on their contributions to the project, technical expertise, and commitment to our [Code of Conduct](https://github.com/ALX-Students-Contribution/.github/blob/main/CODE_OF_CONDUCT.md). Maintainers are responsible for reviewing pull requests, maintaining the codebase, and helping to grow the community.
 
 ## 🤝 Join the Community
 We welcome all ALX students who are interested in making contributions or working on open source projects. Join us and help us create a world where everyone has equal access to high-quality education and opportunities for personal and professional growth.
