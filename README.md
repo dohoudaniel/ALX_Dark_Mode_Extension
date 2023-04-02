@@ -52,3 +52,63 @@ As Fred Swaniker once said,
 > The only way that we can justify privilege is by solving the world's biggest problems, and by doing hard things.
 
 That's why we're here. Join us in making a difference and doing hard things! 💪
+
+## 🎖️ Meet Our Awesome Contributors!
+We are incredibly thankful to the following people who have made valuable contributions to this project. Their time and effort have helped make this project what it is today! And, as a small token of our appreciation, we have featured their profiles below:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DestinedCodes">
+        <img src="https://avatars.githubusercontent.com/u/84413505?v=4" width="100px" alt="DestinedCodes" title="Destiny Saturday" />
+        <br />
+        Destiny Saturday
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MosesSoftEng">
+        <img src="https://avatars.githubusercontent.com/u/99524902?v=4" width="100px" alt="MosesSoftEng" title="Moses Mwangi" />
+        <br />
+        Moses Mwangi
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md">
+        <img src="https://avatars.githubusercontent.com/u/129537379?s=400&u=8490ce5608705a2b55358bbd73b6c4a19f9276e0&v=4" width="100px" alt="Contributor" title="Contribute to get featured!" />
+        <br />
+        Contribute Now!
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md">
+        <img src="https://avatars.githubusercontent.com/u/129537379?s=400&u=8490ce5608705a2b55358bbd73b6c4a19f9276e0&v=4" width="100px" alt="Contributor" title="Contribute to get featured!" />
+        <br />
+        Contribute Now!
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md">
+        <img src="https://avatars.githubusercontent.com/u/129537379?s=400&u=8490ce5608705a2b55358bbd73b6c4a19f9276e0&v=4" width="100px" alt="Contributor" title="Contribute to get featured!" />
+        <br />
+        Contribute Now!
+      </a>
+    </td> 
+    <td align="center">
+      <a href="https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md">
+        <img src="https://avatars.githubusercontent.com/u/129537379?s=400&u=8490ce5608705a2b55358bbd73b6c4a19f9276e0&v=4" width="100px" alt="Contributor" title="Contribute to get featured!" />
+        <br />
+        Contribute Now!
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md">
+        <img src="https://avatars.githubusercontent.com/u/129537379?s=400&u=8490ce5608705a2b55358bbd73b6c4a19f9276e0&v=4" width="100px" alt="Contributor" title="Contribute to get featured!" />
+        <br />
+        Contribute Now!
+      </a>
+    </td>
+
+  </tr>
+</table>
+
+Want to see your profile featured here? All you have to do is make a meaningful contribution to the project and get your pull request merged! We're always looking for more talented individuals to join our community and help us make a difference. So what are you waiting for? Start contributing today and get ready to see your name and picture on this page!
