@@ -34,7 +34,7 @@ We welcome contributions from everyone who wants to help us make a difference. W
 - Fix a bug or implement a new feature 🛠️
 - Review code and help us improve 🤔
 
-Ready to jump in? Take a look at our [CONTRIBUTION.md](https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md) to get started!
+Ready to jump in? Take a look at our [CONTRIBUTION.md](https://github.com/ALX-Students-Contribution/ALX_Dark_Mode_Extension/blob/main/CONTRIBUTING.md) to get started!
 
 ## 👨‍💻 Our Community
 Our community is made up of a talented and motivated group of developers from all corners of the globe! We believe in the power of diversity and inclusivity, and we know that every member has something valuable to contribute.
@@ -80,28 +80,28 @@ We are incredibly thankful to the following people who have made valuable contri
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md">
+      <a href="https://github.com/ALX-Students-Contribution/ALX_Dark_Mode_Extension/blob/main/CONTRIBUTING.md">
         <img src="https://avatars.githubusercontent.com/u/129537379?s=400&u=8490ce5608705a2b55358bbd73b6c4a19f9276e0&v=4" width="100px" alt="Contributor" title="Contribute to get featured!" />
         <br />
         Contribute Now!
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md">
+      <a href="https://github.com/ALX-Students-Contribution/ALX_Dark_Mode_Extension/blob/main/CONTRIBUTING.md">
         <img src="https://avatars.githubusercontent.com/u/129537379?s=400&u=8490ce5608705a2b55358bbd73b6c4a19f9276e0&v=4" width="100px" alt="Contributor" title="Contribute to get featured!" />
         <br />
         Contribute Now!
       </a>
     </td> 
     <td align="center">
-      <a href="https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md">
+      <a href="https://github.com/ALX-Students-Contribution/ALX_Dark_Mode_Extension/blob/main/CONTRIBUTING.md">
         <img src="https://avatars.githubusercontent.com/u/129537379?s=400&u=8490ce5608705a2b55358bbd73b6c4a19f9276e0&v=4" width="100px" alt="Contributor" title="Contribute to get featured!" />
         <br />
         Contribute Now!
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/ALX-Students-Contribution/.github/blob/main/CONTRIBUTING.md">
+      <a href="https://github.com/ALX-Students-Contribution/ALX_Dark_Mode_Extension/blob/main/CONTRIBUTING.md">
         <img src="https://avatars.githubusercontent.com/u/129537379?s=400&u=8490ce5608705a2b55358bbd73b6c4a19f9276e0&v=4" width="100px" alt="Contributor" title="Contribute to get featured!" />
         <br />
         Contribute Now!
