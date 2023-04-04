@@ -1,8 +1,8 @@
 # ALX Dark Mode Extension 🌒
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/84413505/229768207-b2d8f11e-2762-4994-a415-f6fcedf3342c.png" alt="Lumininous Hero Popup" width="33%">
-  <img src="https://user-images.githubusercontent.com/84413505/229768314-0d4450d9-ae12-4e82-9f87-ab19c9edafb4.png" alt="Dark Knight Popup" width="33%">
-  <img src="https://user-images.githubusercontent.com/84413505/229828147-c9d01d99-ce91-4e42-ad1c-6e6e34e05962.jpg" alt="Dark Knight" width="33%">
+  <img src="https://user-images.githubusercontent.com/84413505/229768207-b2d8f11e-2762-4994-a415-f6fcedf3342c.png" alt="Lumininous Hero Popup" width="30%">
+  <img src="https://user-images.githubusercontent.com/84413505/229768314-0d4450d9-ae12-4e82-9f87-ab19c9edafb4.png" alt="Dark Knight Popup" width="30%">
+  <img src="https://user-images.githubusercontent.com/84413505/229828147-c9d01d99-ce91-4e42-ad1c-6e6e34e05962.jpg" alt="Dark Knight" width="30%">
 </div>
 
 ## 📖 Introduction
