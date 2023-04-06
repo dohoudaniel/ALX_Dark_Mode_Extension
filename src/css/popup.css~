@@ -1,0 +1,17 @@
+:root {
+    --popup-background: #ffffff;
+    --popup-border: 1px solid #ccc;
+    --popup-border-radius: 5px;
+    --popup-box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    --popup-padding: 10px;
+    --popup-z-index: 1000;
+
+    --toggle-bg: #fff;
+    --toggle-border: 1px solid #ccc;
+}
+
+#toggle-button {
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+}

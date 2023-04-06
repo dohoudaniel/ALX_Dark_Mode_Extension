@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  width: 250px;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  
+}
+label {
+  width: 72px;
+  height: 32px;
+  position: relative;
+  display: block;
+  background: #fff;
+  border-radius: 32px;
+  border: 2px solid rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  transition: 0.5s
+  ;
+    z-index: 100;
+}
+label:after {
+  content: "";
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: scale(0.9);
+  background: linear-gradient(180deg, #ff7c7c, #db3e3e);
+  border-radius: 32px;
+  
+  transition: 0.5s;
+}
+input {
+  width: 0;
+  height: 0;
+  visibility: hidden;
+}
+input:checked + label {
+  background: #8d8d8d;
+}
+input:checked + label:after {
+  left: 40px;
+  background: linear-gradient(180deg, #777, #373E47);
+}
+.background {
+  width: 100vw;
+  height: 100vh;
+  background: #fff;
+  position: absolute;
+  transition: 0.3s;
+}
+
+label svg {
+  position: absolute;
+  top: 0;
+  width: 32px;
+  transform: scale(0.8)
+;
+  z-index: 100;
+}
+label svg.sun {
+  left: 0;
+  fill: #fff;
+  transition: 0.3s;
+}
+label svg.moon {
+  left: 40px;
+  fill: #8d8d8d50;
+  transition: 0.3s;
+}
+input:checked + label svg.sun {
+  fill: #ffffff30;
+}
+input:checked + label svg.moon {
+  fill: #fff;
+}
+

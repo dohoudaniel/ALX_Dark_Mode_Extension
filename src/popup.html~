@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <rel="stylesheet" href="popup.css">
+    <title>ALX Dark Mode Extension</title>
+</head>
+<body>
+    <div id="toggle-button" align="center">
+        <img src="img/icons/Luminous Hero Icon 24.png" alt="ALX Dark Mode Extension">
+    </div>
+        <p align="center">Mode:off</p>
+
+    <div align="center">
+        <img src="img/design-assets/Dark Knight.png" alt="ALX Dark Mode Extension" width="100">
+        <img src="img/design-assets/Green Knight.png" alt="ALX Dark Mode Extension" width="100">
+    </div>
+    <button id="dark-mode">Toggle Dark Mode</button>
+</body>
+</html>
