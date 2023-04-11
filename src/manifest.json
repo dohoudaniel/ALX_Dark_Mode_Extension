@@ -1,4 +1,4 @@
-{   
+{
   "manifest_version": 3,
   "name": "ALX Dark Mode",
   "description": "Save your eyes the stress.",
@@ -8,13 +8,15 @@
     "48": "images/Dark Knight Icon 48.png",
     "128": "images/Dark Knight Icon 128.png"
   },
+  "content_scripts": [
+    {
+      "matches": ["https://intranet.alxswe.com/*"],
+      "js": ["scripts/content.js"],
+      "css": ["styles/main.css"]
+    }
+  ],
   "action": {
     "default_popup": "popup/popup.html"
   },
-  "host_permissions": [
-    "https://developer.chrome.com/*"
-  ],
-  "permissions": [
-    "tabGroups"
-  ]
+  "permissions": ["storage", "activeTab"]
 }

@@ -1,0 +1,93 @@
+:root {
+  --alx-primary-color: #db3e3e;
+  /*Light Hero*/
+  --light-hero-bg-color: #ffffff;
+  --light-hero-text-color: #333333;
+  --light-hero-border-color: #dddddd;
+
+  /*Dark Knight*/
+  --dark-knight-bg-color: #0d1117;
+  --dark-knight-text-color: #e6edf3;
+  --dark-knight-border-color: #777777;
+}
+
+.light-hero {
+  --bg: var(--light-hero-bg-color);
+  --text: var(--light-hero-text-color);
+  --border: var(--light-hero-border-color);
+}
+
+.dark-knight {
+  --bg: var(--dark-knight-bg-color);
+  --text: var(--dark-knight-text-color);
+  --border: var(--dark-knight-border-color);
+}
+
+body {
+  font-family: sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+header {
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+.popup {
+  width: 155px;
+  background: var(--bg);
+}
+.themes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.unique-theme {
+  width: 72px;
+  text-align: center;
+  align-items: center;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin-bottom: 10px;
+  padding: 0px;
+  cursor: pointer;
+}
+
+.unique-theme img {
+  width: 72px;
+  border-bottom: 1px solid var(--border);
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+}
+
+.contribute {
+  font-size: 9px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+}
+.button img {
+  position: relative;
+  height: 12px;
+  margin: 5px;
+}
+.button button {
+  display: flex;
+  height: 24px;
+  font-size: 9px;
+  color: #fff;
+  background: var(--alx-primary-color);
+  border: 0px;
+  border-radius: 10px;
+  align-items: center;
+  position: relative;
+  left: 36px;
+  top: -5px;
+}
+
+footer {
+  font-size: 8px;
+  text-align: center;
+}
