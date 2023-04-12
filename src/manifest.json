@@ -12,7 +12,8 @@
     {
       "matches": ["https://intranet.alxswe.com/*"],
       "js": ["scripts/content.js"],
-      "css": ["styles/main.css"]
+      "css": ["scripts/content.css"],
+      "runAt": "document_start"
     }
   ],
   "action": {
